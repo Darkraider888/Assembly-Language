@@ -12,7 +12,7 @@ I continuously update it as I complete new lab tasks, assignments, and self-lear
 
 ## 📌 About This Repository
 
-This repo is not in its final form — it will keep growing over time.  
+This repo is not in its final form. It will keep growing over time.  
 It includes various `.asm` programs that I write while:
 
 - practicing Assembly basics  
@@ -67,7 +67,7 @@ These programs can be tested using:
 
 ## 🤝 Contribution & Feedback
 
-This repo is for learning — not for showcasing polished perfection.  
+This repo is for learning - not for showcasing polished perfection.  
 Suggestions, improvements, and discussions are always welcome!
 
 ---
